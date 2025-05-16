@@ -51,18 +51,18 @@
           </car>
       </cars>
 
-      <relations>
-            <relation type="Car">
+      <discount>
+            <sold type="Car">
                 <id>1</id>
                 <id>2</id>
-            </relation>
-            <relation type="Color">
+            </sold>
+            <sold type="Color">
                 <id>1</id>
                 <id>3</id>
-            </relation>
-            <relation type="price">
+            </sold>
+            <sold type="price">
                 <id>1</id>
                 <id>2</id>
-            </relation>
-      </relations>
+            </sold>
+      </discount>
 </document>
