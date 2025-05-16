@@ -2,10 +2,10 @@
     <name>Guzal</name>
     <surname>Irgashova</surname>
     <educations>
-<education> type="university">
+<education type="university">
     <company>Webster</company>
     <position>Methodist</position>
- </education> type="school">
+ </education type="school">
   <name>303</name>
     </educations>
 </person>
