@@ -31,25 +31,25 @@
 
 
 <document>
-      <users>
-          <user id="1">
-            <car>Cobalt</car>
+      <cars>
+          <car id="1">
+            <name>Cobalt</name>
             <color>white</color>
             <price>1000$</price>
-          </user>
+          </car>
 
-          <user id="2">
-            <car>Malibu</car>
+          <car id="2">
+            <name>Malibu</name>
             <color>Red</color>
             <price>2000$</price>
-          </user>
+          </car>
 
-          <user id="3">
-            <car>Matiz</car>
+          <car id="3">
+            <name>Matiz</name>
             <color>Black</color>
             <price>3000$</price>
-          </user>
-      </users>
+          </car>
+      </cars>
 
       <relations>
             <relation type="Car">
