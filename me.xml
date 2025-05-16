@@ -13,19 +13,18 @@
 
 <people>
     <person1>type=<name1>
-<name1>Guzal</name1>
-         <surname1>Irgashova</surname1>
+      <name1>Guzal</name1>
+      <surname1>Irgashova</surname1>
     <educations>
-<education type="university">
-    <company>Webster</company>
-    <position>Methodist</position>
- </education type="school">
-  <name>303</name>
+      <education type="university">
+      <company>Webster</company>
+      <position>Methodist</position>
+      </education type="school">
+      <name>303</name>
     </educations>
 </person1>
     </name1>
         
-
     <person2>type=<name2>
     <name2>Madina</name2>
     </name2>
