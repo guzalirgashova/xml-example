@@ -1,0 +1,61 @@
+<document>
+      <users>
+          <user id="1">
+            <fname>Guzal</fname>
+            <lname>Irgashova</lname>
+          </user>
+
+          <user id="2">
+            <fname>Madina</fname>
+            <lname>Azimobva</lname>
+          </user>
+
+          <user id="3">
+            <fname>Sonila</fname>
+            <lname>Sonilash</lname>
+          </user>
+      </users>
+
+      <relations>
+            <relation type="friend">
+                <id>1</id>
+                <id>2</id>
+            </relation>
+            <relation type="friend">
+                <id>1</id>
+                <id>3</id>
+            </relation>
+      </relations>
+</document>
+
+
+
+<document>
+      <users>
+          <user id="1">
+            <car>Cobalt</car>
+            <color>white</color>
+          </user>
+
+          <user id="2">
+            <car>Malibu</car>
+            <color>Red</color>
+          </user>
+
+          <user id="3">
+            <car>Matiz</car>
+            <color>Black</color>
+          </user>
+      </users>
+
+      <relations>
+            <relation type="Car">
+                <id>1</id>
+                <id>2</id>
+            </relation>
+            <relation type="Color">
+                <id>1</id>
+                <id>3</id>
+            </relation>
+      </relations>
+</document>
