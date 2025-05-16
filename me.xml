@@ -1,8 +1,11 @@
 <person>
     <name>Guzal</name>
     <surname>Irgashova</surname>
- <education>
+    <educations>
+<education> type="university">
     <company>Webster</company>
     <position>Methodist</position>
- </education>
+ </education> type="school">
+  <name>303</name>
+    </educations>
 </person>
