@@ -2,39 +2,22 @@
     <name>Guzal</name>
     <surname>Irgashova</surname>
     <educations>
-<education type="university">
-    <company>Webster</company>
-    <position>Methodist</position>
- </education type="school">
-  <name>303</name>
+      <education type="university">
+       <company>Webster</company>
+       <position>Methodist</position>
+       </education type="school">
+       <name>303</name>
     </educations>
 </person>
 
-
-<people>
-    <person1>type=<name1>
-      <name1>Guzal</name1>
-      <surname1>Irgashova</surname1>
+<person>
+    <name>Madina</name>
+    <surname>Azimova</surname>
     <educations>
       <education type="university">
-      <company>Webster</company>
-      <position>Methodist</position>
-      </education type="school">
-      <name>303</name>
+       <company>Inha</company>
+       <position>Blogger</position>
+       </education type="school">
+       <name>200</name>
     </educations>
-</person1>
-    </name1>
-        
-    <person2>type=<name2>
-    <name2>Madina</name2>
-    </name2>
-         <surname2>Avazova</surname2>
-    <educations>
-<education2 type="university">
-    <company>Inha</company>
-    <position>Blogger</position>
- </education2 type="school">
-  <name>200</name>
-    </educations>
-    </person2>
-</people>
+</person>
