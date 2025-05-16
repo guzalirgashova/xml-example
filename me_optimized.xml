@@ -35,16 +35,19 @@
           <user id="1">
             <car>Cobalt</car>
             <color>white</color>
+            <price>1000$</price>
           </user>
 
           <user id="2">
             <car>Malibu</car>
             <color>Red</color>
+            <price>2000$</price>
           </user>
 
           <user id="3">
             <car>Matiz</car>
             <color>Black</color>
+            <price>3000$</price>
           </user>
       </users>
 
@@ -56,6 +59,10 @@
             <relation type="Color">
                 <id>1</id>
                 <id>3</id>
+            </relation>
+            <relation type="price">
+                <id>1</id>
+                <id>2</id>
             </relation>
       </relations>
 </document>

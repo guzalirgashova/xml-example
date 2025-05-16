@@ -8,9 +8,8 @@
        </education type="school">
        <name>303</name>
     </educations>
-</person>
-
-<person>
+    <relations>
+         <person>
     <name>Madina</name>
     <surname>Azimova</surname>
     <educations>
@@ -20,4 +19,6 @@
        </education type="school">
        <name>200</name>
     </educations>
+</person>
+    </relations>
 </person>
